@@ -1,0 +1,111 @@
+{
+  "webpagedata1": {
+    "TitleLine1": "Welcome to",
+    "TitleLine2": "our world",
+    "Description": "Discover the unique atmosphere of our private residential club communities. Once experienced. Never forgotten. This is classic, comfortable, modern living in nature’s most spectacular settings worldwide. Reassuringly exclusive. Generously welcoming. Find your unique world – a place where families love to be; creating unforgettable moments, together.",
+    "image1": "../Assets/images/Image1.jpg",
+    "image2": "../Assets/images/Image2.jpg",
+    "imageBg": "../Assets/images/imageBg.jpg"
+  },
+  "webpagedata2": {
+    "TitleLine1": "Explore",
+    "TitleLine2": "our worlds"
+  },
+  "webpageData3": [
+    {
+      "Title": "Zapotal",
+      "Description": "Guanacaste, Costa Rica",
+      "image": "../Assets/images/Cards/card1.jpg"
+    },
+    {
+      "Title": "James Island",
+      "Description": "Columbia Canada",
+      "image": "../Assets/images/Cards/card2.jpg"
+    },
+    {
+      "Title": "Costa Terra",
+      "Description": "Comporta, Portugal",
+      "image": "../Assets/images/Cards/card3.jpg"
+    },
+    {
+      "Title": "Driftwood",
+      "Description": "Austin, Texas",
+      "image": "../Assets/images/Cards/card4.jpg"
+    },
+    {
+      "Title": "Troubadour",
+      "Description": "Nashville, Tannessee",
+      "image": "../Assets/images/Cards/card5.jpg"
+    },
+    {
+      "Title": "Playa Grande",
+      "Description": "Rio, Dominician Republic",
+      "image": "../Assets/images/Cards/card6.jpg"
+    },
+    {
+      "Title": "The Summit",
+      "Description": "Las Vegas, Nevada",
+      "image": "../Assets/images/Cards/card7.jpg"
+    },
+    {
+      "Title": "Dune Deck",
+      "Description": "Westhampton Beach, NY",
+      "image": "../Assets/images/Cards/card8.jpg"
+    },
+    {
+      "Title": "Silo Ridge",
+      "Description": "Amenia, New York",
+      "image": "../Assets/images/Cards/card9.jpg"
+    },
+    {
+      "Title": "Zapotal",
+      "Description": "Guanacaste, Costa Rica",
+      "image": "../Assets/images/Cards/card10.jpg"
+    },
+    {
+      "Title": "James Island",
+      "Description": "Columbia Canada",
+      "image": "../Assets/images/Cards/card12.jpg"
+    },
+    {
+      "Title": "Costa Terra",
+      "Description": "Comporta, Portugal",
+      "image": "../Assets/images/Cards/card13.jpg"
+    },
+    {
+      "Title": "Driftwood",
+      "Description": "Austin, Texas",
+      "image": "../Assets/images/Cards/card14.jpg"
+    },
+    {
+      "Title": "Troubadour",
+      "Description": "Nashville, Tannessee",
+      "image": "../Assets/images/Cards/card15.jpg"
+    },
+    {
+      "Title": "Playa Grande",
+      "Description": "Rio, Dominician Republic",
+      "image": "../Assets/images/Cards/card1.jpg"
+    },
+    {
+      "Title": "The Summit",
+      "Description": "Las Vegas, Nevada",
+      "image": "../Assets/images/Cards/card13.jpg"
+    },
+    {
+      "Title": "Dune Deck",
+      "Description": "Westhampton Beach, NY",
+      "image": "../Assets/images/Cards/card12.jpg"
+    },
+    {
+      "Title": "Silo Ridge",
+      "Description": "Amenia, New York",
+      "image": "../Assets/images/Cards/card10.jpg"
+    }
+  ],
+  "webpagedata4": {
+    "TitleLine1": "Lands of",
+    "TitleLine2": "Discovery",
+    "smallDescription": "A world away from the day-to-day. Your escape. Your haven. Your world. Explore the mao below and take a journey to our communities"
+  }
+}

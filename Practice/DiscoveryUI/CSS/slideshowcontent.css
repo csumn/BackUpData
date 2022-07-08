@@ -1,0 +1,87 @@
+.container-4 {
+    min-height: 430vh;
+    display: grid;
+    place-items: center;
+}
+
+.slider {
+    height: 250px;
+    margin: 0%;
+    position: relative;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+
+.slide-track {
+    display: flex;
+    width: calc(250px * 26);
+    animation: scroll 30s linear infinite;
+}
+
+.slide {
+    height: 70vh;
+    width: 364px;
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    perspective: 100px;
+}
+
+
+.slide:hover {
+    transform: scale(1.01);
+}
+
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-250px*13));
+    }
+}
+
+.slider::before,
+.slider::after {
+    background: linear-gradient(to right, rgb(255, 255, 255) 0% rgb(0, 0, 0) 100%);
+    content: '';
+    height: 100%;
+    position: absolute;
+    width: 0%;
+    z-index: 2;
+}
+
+.slider::before {
+    left: 0;
+    top: 0;
+}
+
+.slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(90deg);
+}
+
+
+.TitleOfCard {
+    position: absolute;
+    top: 326px;
+    left: 27px;
+    font-size: 34px;
+    color: #fffefe;
+    white-space: nowrap;
+}
+
+.DescriptionOfCard {
+    position: absolute;
+    top: 383px;
+    left: 27px;
+    font-size: 17px;
+    color: #fffdfd;
+    letter-spacing: 1px;
+    white-space: nowrap;
+}

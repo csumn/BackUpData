@@ -1,0 +1,107 @@
+.footer-container {
+    background-color: #9f9f9f;
+    position: relative;
+    top: -769px;
+    padding-block-end: 0px;
+    height: 126vh;
+    display: flex;
+    flex-direction: row;
+    width: 1306px;
+}
+
+.footer-company-logo {
+    position: relative;
+    top: 98px;
+    width: 40px;
+    left: 101px;
+}
+
+.footer-row1 {
+    position: relative;
+    top: 86px;
+    left: 618px;
+}
+
+.row1-contents-options {
+    display: flex;
+    flex-direction: column;
+    line-height: 38px;
+}
+
+.row1 {
+    font-size: 82%;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+.footer-row2 {
+    position: relative;
+    top: 86px;
+    left: 735px;
+}
+
+.row2-contents-options {
+    display: flex;
+    flex-direction: column;
+    line-height: 38px;
+}
+
+.row2 {
+    font-size: 82%;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.footer-row3 {
+    position: relative;
+    top: 86px;
+    left: 852px;
+}
+
+.row3-contents-options {
+    display: flex;
+    flex-direction: column;
+    line-height: 38px;
+}
+
+.row3 {
+    font-size: 82%;
+    text-decoration: none;
+    color: black;
+}
+
+.end {
+    position: relative;
+    top: 343px;
+    width: 388px;
+    left: -278px;
+}
+
+.copyright {
+    font-size: 12px;
+    white-space: nowrap;
+    letter-spacing: 1px;
+}
+
+/* 
+.row1-animate:before {
+    content: "";
+    position: absolute;
+    width: 1;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(255, 0, 0);
+    visibility: unset;
+    transition: all 0.4s ease-in-out;
+}
+
+.row1-animate:hover:before {
+    visibility: visible;
+    width: 100%;
+} */

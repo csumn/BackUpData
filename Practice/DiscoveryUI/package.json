@@ -1,0 +1,20 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "Fake Rest API for Testing ",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch webpageData.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.8.0",
+    "json-server": "^0.17.0",
+    "node-fetch": "^3.2.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
